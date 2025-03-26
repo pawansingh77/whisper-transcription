@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+yt-dlp
+ffmpeg-python
+pydub
